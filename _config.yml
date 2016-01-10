@@ -6,10 +6,10 @@ description: > # this means to ignore newlines until "baseurl:"
   Roon was an excellent service, with a beautiful understated design. Roon
   was eventually acquired by Ghost, who awesomely chose to open source the theme.
   <br/>This is my Jekyll port of the Roon theme
-url: "http://vormwald.github.io" # the base hostname & protocol for your site
-baseurl: "http://ftchao.github.io/" # the subpath of your site, e.g. /blog/
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://ftchao.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+twitter_username: ftchao
+github_username:  ftchao
 
 # Build settings
 markdown: kramdown
