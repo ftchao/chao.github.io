@@ -31,7 +31,7 @@ $ beanstalkd -l 0.0.0.0  -p 11300 -b /var/log/binlog -F
 
 #### EXample For PHP
 
-{% highlight php linenos %}
+{% highlight php %}
 <?php
 
 // Hopefully you're using Composer autoloading.
