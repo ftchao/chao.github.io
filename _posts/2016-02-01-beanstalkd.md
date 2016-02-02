@@ -1,7 +1,7 @@
 ---
-layout: Beanstalkd
+layout: post
 title: "Beanstalkd 队列"
-image: header.jpg
+image: queue.jpg
 video: false
 ---
 
@@ -18,7 +18,7 @@ Beanstalk，一个高性能、轻量级的分布式内存队列系统，最初�
  * **DELETED** 消息被彻底删除。Beanstalkd 不再维持这些消息
 
 #### 安装
- 
+
 ```
 $ yum install beanstalkd
 $ aptitude install beanstalkd
