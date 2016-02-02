@@ -31,7 +31,7 @@ $ beanstalkd -l 0.0.0.0  -p 11300 -b /var/log/binlog -F
 
 #### EXample For PHP
 
-```
+{% highlight php linenos %}
 <?php
 
 // Hopefully you're using Composer autoloading.
@@ -63,4 +63,4 @@ $pheanstalk->delete($job);
 // check server availability
 
 $pheanstalk->getConnection()->isServiceListening(); // true or false
-```
+{% endhighlight %}
