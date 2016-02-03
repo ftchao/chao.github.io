@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Install Nginx LuaJit"
+title: "Install LuaJit In Nginx"
 image: nginx.png
 video: false
 ---
