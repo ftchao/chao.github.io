@@ -13,3 +13,5 @@ github_username:  ftchao
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
